@@ -1,0 +1,3 @@
+# Node.js Server Port Already in Use Error
+This repository demonstrates a common error encountered when developing Node.js applications: the server failing to start because the specified port is already in use.
+The `bug.js` file contains the code that reproduces the error.  The `bugSolution.js` file provides a solution.  The solution shows how to gracefully handle port conflicts and prevent the server from crashing.
